@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        Let names = ["Bruce","Robin","Alfred"]
+        let names = ["Bruce","Will","Alfred"]
         
         for name in names {
             
